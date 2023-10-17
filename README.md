@@ -17,3 +17,5 @@ Dia 3- Miercoles 04:
 09 - Folium: diferentes tipos de mapa mundis, donde puedes hacer zoom en ciertas coordenadas, ver rios y mares, etc. Tambien para ver los incidentes policiales registrados de diferentes formas. 
 Prophet v2- predecir valores de bolsa. Con los valores que ya tiene hace aproximaciones del valor esperado, cuanto mas lejana sea la fecha más margen de error habrá y hacer gráficas con estos datos.
 Space X- importar datos de diferentes maneras, desde el pc, desde drive o con la ruta del pc. Gráficas con x e y donde podemos ver distintos datos. Visualización de datos por año, mes y días.
+
+Dia 5 - Viernes 06:
