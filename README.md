@@ -19,3 +19,13 @@ Prophet v2- predecir valores de bolsa. Con los valores que ya tiene hace aproxim
 Space X- importar datos de diferentes maneras, desde el pc, desde drive o con la ruta del pc. Gráficas con x e y donde podemos ver distintos datos. Visualización de datos por año, mes y días.
 
 Dia 5 - Viernes 06:
+Apuntes de repaso de teoría
+Apuntes de código
+PDF explicación
+
+Dia 6 - Lunes 17:
+Funciones y clases
+
+Dia 7 - Martes 18:
+Programación funcional
+Ejercicios Space X
