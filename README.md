@@ -34,3 +34,4 @@ Ejercicios Space X
 Dia 8 - Miercoles 18:
 Teoría Spark y RDD
 Ejercicios sobre RDD con sus BBDD 
+Ejercicio SpaceX
