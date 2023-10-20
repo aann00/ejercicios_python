@@ -29,9 +29,8 @@ Funciones y clases
 
 Dia 7 - Martes 17:
 Programación funcional
-Ejercicios Space X
+Ejercicios Space X de mapas y distancias
 
 Dia 8 - Miercoles 18:
 Teoría Spark y RDD
 Ejercicios sobre RDD con sus BBDD 
-Ejercicio SpaceX de mapas y distancias
